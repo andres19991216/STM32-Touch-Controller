@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=01_POWER SUPPLY.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_POWER SUPPLY.SchDoc|FileName=02_SPEAKER & LED STRIPS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_POWER SUPPLY.SchDoc|FileName=03_CONNECTORS & AUDIO CONTROL INPUTS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_POWER SUPPLY.SchDoc|FileName=04_BLE & WIFI module.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_POWER SUPPLY.SchDoc|FileName=05_MCU1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_POWER SUPPLY.SchDoc|FileName=06_ACCELEROMETER.SchDoc|SheetNumber= 

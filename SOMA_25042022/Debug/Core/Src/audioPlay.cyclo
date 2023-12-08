@@ -1,0 +1,7 @@
+../Core/Src/audioPlay.c:71:12:fillReadBuffer	2
+../Core/Src/audioPlay.c:86:6:i2sStart	2
+../Core/Src/audioPlay.c:103:6:i2sStop	1
+../Core/Src/audioPlay.c:110:6:i2sSetSampleRate	2
+../Core/Src/audioPlay.c:139:6:PlayAudioFile	23
+../Core/Src/audioPlay.c:374:6:HAL_I2S_TxHalfCpltCallback	1
+../Core/Src/audioPlay.c:379:6:HAL_I2S_TxCpltCallback	4

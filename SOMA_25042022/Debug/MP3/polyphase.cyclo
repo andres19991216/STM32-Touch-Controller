@@ -1,0 +1,2 @@
+../MP3/polyphase.c:112:6:xmp3_PolyphaseMono	6
+../MP3/polyphase.c:234:6:xmp3_PolyphaseStereo	10

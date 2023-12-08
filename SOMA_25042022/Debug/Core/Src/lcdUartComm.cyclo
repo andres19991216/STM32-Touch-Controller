@@ -1,0 +1,8 @@
+../Core/Src/lcdUartComm.c:52:6:StartLcdUartReceiveProc	2
+../Core/Src/lcdUartComm.c:58:6:LcdUartReceiveCallback	3
+../Core/Src/lcdUartComm.c:71:12:GetRBufferSize	1
+../Core/Src/lcdUartComm.c:76:16:GetRBuffer	1
+../Core/Src/lcdUartComm.c:81:13:SetRBufferIndex	2
+../Core/Src/lcdUartComm.c:88:13:SendDataToUart	1
+../Core/Src/lcdUartComm.c:97:13:SetAudioVolume	1
+../Core/Src/lcdUartComm.c:107:6:EsimationLcdUartComm	56

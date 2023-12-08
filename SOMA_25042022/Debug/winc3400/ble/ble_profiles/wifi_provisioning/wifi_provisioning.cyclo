@@ -1,0 +1,9 @@
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:59:13:init_credentials	1
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:69:13:update_credentials	2
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:83:6:ble_prov_process_event	7
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:141:9:ble_prov_get_credentials	5
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:180:9:ble_prov_start	2
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:195:6:ble_prov_stop	2
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:205:6:ble_prov_init	3
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:224:6:ble_prov_scan_result	4
+../winc3400/ble/ble_profiles/wifi_provisioning/wifi_provisioning.c:241:9:ble_prov_get_provision_state	1

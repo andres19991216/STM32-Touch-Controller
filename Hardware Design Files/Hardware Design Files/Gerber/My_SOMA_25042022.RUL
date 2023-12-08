@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: F:\Freelance\82.Yugansh\5.SOMA\SOMA_25042022\My_SOMA_25042022.PcbDoc
+RuleKind=Clearance|RuleName=L2|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=KEEPOUT|Scope=Board|Minimum=1.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

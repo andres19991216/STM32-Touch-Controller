@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\Freelance\82.Yugansh\5.SOMA\SOMA_25042022\My_SOMA_25042022.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=my_soma_25042022-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=my_soma_25042022-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

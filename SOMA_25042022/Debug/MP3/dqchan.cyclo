@@ -1,0 +1,2 @@
+../MP3/dqchan.c:133:52:DequantBlock	12
+../MP3/dqchan.c:245:45:xmp3_DequantChannel	21

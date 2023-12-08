@@ -1,0 +1,7 @@
+../winc3400/bsp/source/nm_bsp_stm32f429.c:55:13:init_chip_pins	1
+../winc3400/bsp/source/nm_bsp_stm32f429.c:93:7:nm_bsp_init	1
+../winc3400/bsp/source/nm_bsp_stm32f429.c:109:7:nm_bsp_deinit	1
+../winc3400/bsp/source/nm_bsp_stm32f429.c:129:6:nm_bsp_reset	1
+../winc3400/bsp/source/nm_bsp_stm32f429.c:161:6:nm_bsp_sleep	1
+../winc3400/bsp/source/nm_bsp_stm32f429.c:173:6:nm_bsp_register_isr	1
+../winc3400/bsp/source/nm_bsp_stm32f429.c:217:6:nm_bsp_interrupt_ctrl	2
